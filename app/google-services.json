@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69276927580",
+    "project_id": "reminderapp-66928",
+    "storage_bucket": "reminderapp-66928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69276927580:android:fda6a68688e1394ff80899",
+        "android_client_info": {
+          "package_name": "com.mobileprak.remindapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBosXBX6AMZDNG-7FeATBUoqp-RIPiknk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
